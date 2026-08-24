@@ -1,0 +1,67 @@
+Geography,Subject,Subgroup,FAY Students (reported range),Proficiency (reported),Proficiency %,Participation (reported),Participation %,Growth (reported),Median Growth Percentile
+Manchester,Mathematics,All students,"5,525 - 5,530",19,19.0,94,94.0,46,46.0
+Manchester,Mathematics,Asian+PI+Hawaiian,220 - 225,37,37.0,99,99.0,55,55.0
+Manchester,Mathematics,Black,585 - 590,10,10.0,94,94.0,45,45.0
+Manchester,Mathematics,EL - Current,960 - 965,< 10 %,,95,95.0,46,46.0
+Manchester,Mathematics,Female,"2,665 - 2,670",17,17.0,95,95.0,47,47.0
+Manchester,Mathematics,Hispanic,"1,690 - 1,695",10,10.0,95,95.0,45,45.0
+Manchester,Mathematics,Homeless,265 - 270,< 10 %,,90,90.0,38,38.0
+Manchester,Mathematics,IEP/SWD,"1,225 - 1,230",< 10 %,,87,87.0,40,40.0
+Manchester,Mathematics,Male,"2,860 - 2,865",20,20.0,93,93.0,46,46.0
+Manchester,Mathematics,SES,"3,075 - 3,080",12,12.0,93,93.0,44,44.0
+Manchester,Mathematics,White,"2,700 - 2,705",24,24.0,93,93.0,47,47.0
+Manchester,Reading,All students,"5,475 - 5,480",29,29.0,94,94.0,45,45.0
+Manchester,Reading,Asian+PI+Hawaiian,215 - 220,49,49.0,99,99.0,55,55.0
+Manchester,Reading,Black,570 - 575,19,19.0,94,94.0,43,43.0
+Manchester,Reading,EL - Current,910 - 915,< 10 %,,96,96.0,42,42.0
+Manchester,Reading,Female,"2,645 - 2,650",32,32.0,95,95.0,47,47.0
+Manchester,Reading,Hispanic,"1,655 - 1,660",19,19.0,95,95.0,44,44.0
+Manchester,Reading,Homeless,250 - 255,14,14.0,91,91.0,43,43.0
+Manchester,Reading,IEP/SWD,"1,220 - 1,225",< 10 %,,87,87.0,38,38.0
+Manchester,Reading,Male,"2,830 - 2,835",26,26.0,93,93.0,43,43.0
+Manchester,Reading,SES,"3,035 - 3,040",20,20.0,93,93.0,43,43.0
+Manchester,Reading,White,"2,700 - 2,705",36,36.0,94,94.0,45,45.0
+Manchester,Science,All students,"2,160 - 2,165",15,15.0,88,88.0,* n < 11,
+Manchester,Science,Asian+PI+Hawaiian,85 - 90,31,31.0,92,92.0,* n < 11,
+Manchester,Science,Black,235 - 240,< 10 %,,88,88.0,* n < 11,
+Manchester,Science,EL - Current,385 - 390,< 10 %,,89,89.0,* n < 11,
+Manchester,Science,Female,"1,040 - 1,045",14,14.0,90,90.0,* n < 11,
+Manchester,Science,Hispanic,640 - 645,< 10 %,,87,87.0,* n < 11,
+Manchester,Science,Homeless,100 - 105,< 10 %,,81,81.0,* n < 11,
+Manchester,Science,IEP/SWD,420 - 425,< 10 %,,77,77.0,* n < 11,
+Manchester,Science,Male,"1,120 - 1,125",16,16.0,87,87.0,* n < 11,
+Manchester,Science,SES,"1,140 - 1,145",< 10 %,,86,86.0,* n < 11,
+Manchester,Science,White,"1,075 - 1,080",18,18.0,89,89.0,* n < 11,
+New Hampshire,Mathematics,All students,"79,505 - 79,510",41,41.0,95,95.0,50,50.0
+New Hampshire,Mathematics,Asian+PI+Hawaiian,"2,505 - 2,510",64,64.0,97,97.0,57,57.0
+New Hampshire,Mathematics,Black,"1,515 - 1,520",21,21.0,95,95.0,47,47.0
+New Hampshire,Mathematics,EL - Current,"2,385 - 2,390",12,12.0,94,94.0,48,48.0
+New Hampshire,Mathematics,Female,"38,490 - 38,495",39,39.0,95,95.0,50,50.0
+New Hampshire,Mathematics,Hispanic,"6,430 - 6,435",25,25.0,93,93.0,48,48.0
+New Hampshire,Mathematics,Homeless,"1,285 - 1,290",17,17.0,92,92.0,46,46.0
+New Hampshire,Mathematics,IEP/SWD,"15,470 - 15,475",13,13.0,88,88.0,45,45.0
+New Hampshire,Mathematics,Male,"41,015 - 41,020",44,44.0,95,95.0,50,50.0
+New Hampshire,Mathematics,SES,"20,510 - 20,515",22,22.0,93,93.0,47,47.0
+New Hampshire,Mathematics,White,"65,915 - 65,920",43,43.0,95,95.0,50,50.0
+New Hampshire,Reading,All students,"79,045 - 79,050",53,53.0,94,94.0,50,50.0
+New Hampshire,Reading,Asian+PI+Hawaiian,"2,480 - 2,485",69,69.0,97,97.0,54,54.0
+New Hampshire,Reading,Black,"1,500 - 1,505",33,33.0,95,95.0,48,48.0
+New Hampshire,Reading,EL - Current,"2,265 - 2,270",10,10.0,93,93.0,45,45.0
+New Hampshire,Reading,Female,"38,290 - 38,295",58,58.0,95,95.0,52,52.0
+New Hampshire,Reading,Hispanic,"6,345 - 6,350",36,36.0,93,93.0,48,48.0
+New Hampshire,Reading,Homeless,"1,250 - 1,255",25,25.0,91,91.0,46,46.0
+New Hampshire,Reading,IEP/SWD,"15,305 - 15,310",18,18.0,87,87.0,45,45.0
+New Hampshire,Reading,Male,"40,755 - 40,760",49,49.0,94,94.0,48,48.0
+New Hampshire,Reading,SES,"20,315 - 20,320",33,33.0,92,92.0,47,47.0
+New Hampshire,Reading,White,"65,610 - 65,615",55,55.0,95,95.0,50,50.0
+New Hampshire,Science,All students,"32,420 - 32,425",36,36.0,89,89.0,* n < 11,
+New Hampshire,Science,Asian+PI+Hawaiian,"1,070 - 1,075",50,50.0,93,93.0,* n < 11,
+New Hampshire,Science,Black,625 - 630,18,18.0,90,90.0,* n < 11,
+New Hampshire,Science,EL - Current,840 - 845,< 10 %,,84,84.0,* n < 11,
+New Hampshire,Science,Female,"15,555 - 15,560",36,36.0,89,89.0,* n < 11,
+New Hampshire,Science,Hispanic,"2,495 - 2,500",22,22.0,85,85.0,* n < 11,
+New Hampshire,Science,Homeless,515 - 520,17,17.0,84,84.0,* n < 11,
+New Hampshire,Science,IEP/SWD,"5,725 - 5,730",12,12.0,81,81.0,* n < 11,
+New Hampshire,Science,Male,"16,865 - 16,870",37,37.0,90,90.0,* n < 11,
+New Hampshire,Science,SES,"7,725 - 7,730",20,20.0,85,85.0,* n < 11,
+New Hampshire,Science,White,"27,015 - 27,020",38,38.0,90,90.0,* n < 11,
